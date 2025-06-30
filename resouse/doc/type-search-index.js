@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"th.ac.npru.se.ntk.product","l":"ProductSingleton"}];updateSearchResults();
